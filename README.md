@@ -10,6 +10,8 @@ Notable examples of command line programs failing to work with long filenames :
 
 **Usage**
 
+Duplicate ```winwrapper.ps1``` and edit to change the command to be executed.
+
 The script receives 2 required and 2 optionals parameters,in the following order, to match the common uses of the aboved mention programs : 
   1.  input filename
   2.  output filename
